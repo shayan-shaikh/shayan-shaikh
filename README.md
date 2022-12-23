@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shayan-shaikh
 - 👀 I’m interested in Machine Learning, Development and Gaming!
-- 🌱 I’m currently learning Java development with ** OSlash!
+- 🌱 I’m currently learning Java development with **OSlash!**
 - 💞️ I’m looking to collaborate on the "Search"
 - 📫 Reach me at ...
 
