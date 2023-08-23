@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Development and Gaming!
 - 🌱 I’m currently learning Java development with ***OSlash!***
 - 💞️ I’m looking to collaborate on the "Search"
-- 📫 Reach me at ...
+- 📫 Reach me at Shaikhshayan1@gmail.com
 
 <!---
 shayan-shaikh/shayan-shaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
