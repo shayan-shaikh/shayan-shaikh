@@ -15,11 +15,9 @@
 
 - 🤝 I’m looking for help with **Open Source contributions**
 
-- 👨‍💻 All of my projects are available at [https://shayan-shaikh-portfolio.netlify.app/](https://shayan-shaikh-portfolio.netlify.app/)
+- 👨‍💻 Visit my portfolio at [https://shayan-shaikh-portfolio.netlify.app/](https://shayan-shaikh-portfolio.netlify.app/)
 
-- 💬 Ask me about **Backend Development**
-
-- 📫 How to reach me **Shaikhshayan1@gmail.com**
+- 📫 Reach me at **Shaikhshayan1@gmail.com**
 
 - ⚡ Fun fact **I was a World Ranking holder in Critical Ops (Top 5000)**
 
