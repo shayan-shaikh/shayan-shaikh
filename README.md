@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shayan Shaikh</h1>
+<h1 align="center">Hi there 👋, I'm Shayan Shaikh</h1>
 <h3 align="center">A passionate frontend / backend developer with proven experience in a Startup.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan-shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="shayan-shaikh" /> </p>
